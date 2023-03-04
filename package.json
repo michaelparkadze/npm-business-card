@@ -1,16 +1,16 @@
 {
-  "name": "bitandbang",
-  "version": "3.0.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "michaelparkadze",
+  "version": "1.0.0",
+  "description": "A personal card for Michael Parkadze (@michaelparkadze)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "michaelparkadze": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/michaelparkadze/npm-business-card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://michaelparkadze.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "michaelparkadze <michaelparkaze@icloud.com> (https://michaelparkadze.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -37,7 +37,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/michaelparkadze/npm-business-card/issues"
   },
   "dependencies": {}
 }
